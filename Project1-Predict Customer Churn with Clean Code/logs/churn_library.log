@@ -1,0 +1,5 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - SUCCESS: EDA results successfully saved!
+root - INFO - SUCCESS: The encoder worked as expected
+root - INFO - SUCCESS: train and test splits are correct
+root - INFO - SUCCESS: The models exist in the specified directory
